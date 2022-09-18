@@ -1,0 +1,7 @@
+scipy
+dlib
+imutils
+numpy
+opencv-python
+PyQt5
+prequire
